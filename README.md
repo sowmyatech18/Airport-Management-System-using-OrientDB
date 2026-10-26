@@ -20,6 +20,17 @@ FlightDB is an airport management database developed using OrientDB as part of a
 - Explore ACID transactions for maintaining booking consistency.
 - Understand how vertices and edges represent connected data.
 
+## Project Demonstration
+
+The project demonstration includes the OrientDB queries executed and their corresponding outputs, showcasing database creation, record manipulation, graph relationships, and flight booking operations.
+
+## Project Files
+
+- **FlightDB_Presentation.pptx** — Project overview, database design, and implementation.
+- **FlightDB_Demo.mp4** — Recorded demonstration of the queries and their outputs.
+- **Queries.txt** — OrientDB queries executed as part of the case study.
+- **README.md** — Project overview, objectives, database schema, and team details.
+
 ## Technologies and Implementation
 
 The project uses **OrientDB** to store and manage airport-related data through document and graph database capabilities.
@@ -105,15 +116,4 @@ Use OrientDB SQL and graph traversal features to retrieve connected information 
 ### 6. ACID Transactions
 
 Demonstrate transactional operations for maintaining consistency when booking flights and updating seat availability.
-
-## Project Demonstration
-
-The project demonstration includes the OrientDB queries executed and their corresponding outputs, showcasing database creation, record manipulation, graph relationships, and flight booking operations.
-
-## Project Files
-
-- **Presentation:** Project overview and database design.
-- **Video:** Recorded demonstration of queries and outputs.
-- **Queries.txt:** OrientDB queries used in the case study.
-- **README.md:** Project description, database schema, objectives, and team details.
 
